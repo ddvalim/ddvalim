@@ -8,7 +8,7 @@
 - 😄 Pronouns: she/her
 - ⚽ Hobbies: playing League of Legends, reading, drawing, writing, coding, photographing and collecting Funko Pop's.
 - ⚡ Fun fact: I love sheeps.
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Antifascist programmer
+- 󠁧󠁢󠁥󠁮󠁧󠁿🚩 Antifascist programmer
 
 **Languages, Frameworks and Tools**
 
