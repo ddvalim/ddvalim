@@ -2,7 +2,7 @@
 ### Hi there 👋 My name is Diovana, I'm a 🎓 student of Information Systems at UFSC. I'm from Santa Catarina, Brasil. 
 
 - 🔭 I’m not working, but I'm searching for internship
-- 🌱 I’m currently learning everything in life.
+- 🌱 I’m currently learning about everything in life.
 - 💬 Ask me about League of Legends, programming in Python, information security, cloud computing, IoT, black holes, general relativity and quantum mechanics.
 - 📫 How to reach me: diovanavalimm@gmail.com
 - 😄 Pronouns: she/her
