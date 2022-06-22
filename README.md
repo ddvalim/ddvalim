@@ -1,7 +1,7 @@
 ## Diovana Rodrigues Valim :brazil:
 ### Hi there 👋 My name is Diovana, I'm a 🎓 student of Information Systems at UFSC. I'm from Santa Catarina, Brasil. 
 
-- 🔭 I’m working at Khomp.
+- 🔭 I’m working at Mercado Livre.
 - 🌱 I’m currently learning about everything in life.
 - 💬 Ask me about League of Legends, programming in Python, information security, cloud computing, IoT, black holes, general relativity and quantum mechanics.
 - 📫 How to reach me: diovanavalimm@gmail.com
