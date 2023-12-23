@@ -2,7 +2,7 @@
 ## Diovana Rodrigues Valim :brazil:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=EE98F7&width=435&lines=Hi%2C+there!)](https://git.io/typing-svg)
 
-### My name is Diovana, I'm a 🎓 student of Information Systems, at Federal University of Santa Catarina. I'm from Florianópolis, Santa Catarina, Brasil. 
+### My name is Diovana, I'm a graduated in Information Systems, at Federal University of Santa Catarina. I'm from Florianópolis, Santa Catarina, Brasil. 
 
   <img align="right" alt="GIF" src="https://octodex.github.com/images/nyantocat.gif" width="400px" />
   
