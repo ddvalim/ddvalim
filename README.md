@@ -8,10 +8,8 @@
   
 - 🔭 I’m working at Mercado Livre.
 - 🌱 I’m currently learning about everything in life.
-- 💬 Ask me about programming, information security, blockchain, black holes, analog photography and books.
 - 📫 How to reach me: diovanavalimm@gmail.com
 - 😄 Pronouns: she/her
-- ⚽ Hobbies: playing Stray, reading, drawing, writing, coding and photographing.
 - ⚡ Fun fact: I love sheeps.
 - 󠁧󠁢󠁥󠁮󠁧󠁿🚩 Antifascist programmer
 
